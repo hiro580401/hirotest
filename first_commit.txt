@@ -6,3 +6,5 @@ make a branch
 add comment in branch feature2
 
 comment when add feature3 branch
+
+comment from main
