@@ -7,3 +7,5 @@ merge branch
 add one more comment
 
 added feature3 branch
+
+this is a comment from main branch
